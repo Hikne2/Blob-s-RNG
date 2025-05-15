@@ -1,9 +1,9 @@
 {
     "name": "Blob's RNG",
     "short_name": "Blob's RNG",
-    "start_url": "Blob-s-RNG/rng",
+    "start_url": "rng",
     "display": "standalone",
-    "id": "rng",
+    "id": "Blob-s-RNG/rng",
     "icons": [
         {
             "src": "assets/icon.png",
