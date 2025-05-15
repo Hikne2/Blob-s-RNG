@@ -1,0 +1,17 @@
+{
+    "name": "Blob's RNG",
+    "short_name": "RNG",
+    "start_url": "/app.html",
+    "display": "standalone",
+    "id": "rng",
+    "icons": [
+        {
+            "src": "assets/icon.png",
+            "type": "image/png",
+            "sizes": "1024x1024"
+        }
+    ],
+    "theme_color": "#48b0e8",
+    "background_color": "#323b40",
+    "orientation": "portrait"
+}
