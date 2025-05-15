@@ -1,7 +1,7 @@
 {
     "name": "Blob's RNG",
-    "short_name": "RNG",
-    "start_url": "/app.html",
+    "short_name": "Blob's RNG",
+    "start_url": "Blob-s-RNG/app.html",
     "display": "standalone",
     "id": "rng",
     "icons": [
